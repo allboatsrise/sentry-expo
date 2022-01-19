@@ -1,5 +1,5 @@
 {
-  "name": "sentry-expo",
+  "name": "@allboatsrise/sentry-expo",
   "version": "4.0.5",
   "description": "Catch your Javascript errors for your production Expo apps!",
   "main": "build/index.js",
